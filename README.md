@@ -1,4 +1,4 @@
-#  Banana Project
+  Banana Project
 
 Welcome to the **Banana Project**!  
 Updated for GitHub Actions test!
