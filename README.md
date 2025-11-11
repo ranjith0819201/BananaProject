@@ -1,7 +1,7 @@
 #  Banana Project
 
 Welcome to the **Banana Project**!  
-This project demonstrates Markdown formatting on GitHub.
+Updated for GitHub Actions test!
 
 
 - Easy to understand
